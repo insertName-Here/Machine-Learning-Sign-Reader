@@ -1,4 +1,4 @@
-# Machine-Learning-Sign-Reader
+# Machine-Learning-Sign-Reader ()
 Street sings reading with machine learning convolution neural networks (CNN).
 Database source is http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html
 
